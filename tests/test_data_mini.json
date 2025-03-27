@@ -1,0 +1,36 @@
+[
+  {
+    "employe": "Jean Test",
+    "evaluation": "Bonnes compétences techniques, besoin d'amélioration en communication",
+    "score": 72,
+    "suggestions": [
+      {
+        "type": "programme de formation",
+        "content": "Formation en communication efficace pour les professionnels techniques",
+        "source": "https://test.com/comm-tech"
+      },
+      {
+        "type": "meilleures pratiques",
+        "content": "Guide des meilleures pratiques pour la documentation technique",
+        "source": "https://test.com/doc-tech"
+      }
+    ]
+  },
+  {
+    "employe": "Marie Test",
+    "evaluation": "Excellente en gestion d'équipe, peut améliorer ses connaissances techniques",
+    "score": 85,
+    "suggestions": [
+      {
+        "type": "programme de formation",
+        "content": "Formation approfondie sur les technologies cloud modernes",
+        "source": "https://test.com/cloud-tech"
+      },
+      {
+        "type": "étude de cas",
+        "content": "Étude de cas sur l'intégration des nouvelles technologies dans les équipes existantes",
+        "source": "https://test.com/integration-tech"
+      }
+    ]
+  }
+]
